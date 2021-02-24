@@ -1,4 +1,4 @@
-### Hi there, I'm Tanim - aka [Root Tech]👋
+### Hi there, I'm Tanim - [Root Tech]👋
 
 
 ## I'm a Developer and Teacher!!
