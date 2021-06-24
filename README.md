@@ -106,5 +106,13 @@
 </details>
 
 
+[website]: https://codeSTACKr.com 
+ [course]: http://vsCodeHero.com 
 [twitter]: https://twitter.com/ccttanimhossain14
+[youtube]: https://www.youtube.com/channel/UCD1-EKgxC4858b3Vqe1cgIg
+[instagram]: https://www.instagram.com/ccttaim/?fbclid=IwAR0mxbXX1ICb-NkoGOZN_aFGzqu4akARzTTeZTTcdqB8ijv_066cDIxDZM4
 [linkedin]: https://www.linkedin.com/in/md-tanim-hossain-566b90153/
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
